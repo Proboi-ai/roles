@@ -11,7 +11,8 @@
   "tools": ["send_file", "container", "schedule"],
   "knowledge": [
     "coaching.md",
-    "progress.md"
+    "progress.md",
+    "quotes.md"
   ],
   "escalation": {
     "rules": [
