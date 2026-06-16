@@ -12,8 +12,7 @@
   "knowledge": [
     "coaching.md",
     "programs.md",
-    "progress.md",
-    "quotes.md"
+    "progress.md"
   ],
   "escalation": {
     "rules": [
