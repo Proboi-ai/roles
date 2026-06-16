@@ -11,6 +11,7 @@
   "tools": ["send_file", "container", "schedule"],
   "knowledge": [
     "coaching.md",
+    "programs.md",
     "progress.md",
     "quotes.md"
   ],
