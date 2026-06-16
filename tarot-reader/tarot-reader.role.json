@@ -8,7 +8,7 @@
     "mode": "mention",
     "rules": []
   },
-  "tools": ["send_file", "container"],
+  "tools": ["send_file", "container", "schedule"],
   "knowledge": [
     "reading.md",
     "cards.md"

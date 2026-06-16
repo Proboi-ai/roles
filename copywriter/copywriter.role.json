@@ -8,7 +8,7 @@
     "mode": "mention",
     "rules": []
   },
-  "tools": ["send_file", "web_search"],
+  "tools": ["send_file", "web_search", "schedule"],
   "knowledge": [
     "copywriting.md",
     "formats.md"

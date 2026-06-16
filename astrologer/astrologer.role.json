@@ -8,7 +8,7 @@
     "mode": "mention",
     "rules": []
   },
-  "tools": ["container", "send_file"],
+  "tools": ["container", "send_file", "schedule"],
   "knowledge": [
     "horoscope.md",
     "signs.md"
